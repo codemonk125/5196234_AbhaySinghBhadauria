@@ -1,18 +1,16 @@
-welcome to my repo 
-
 \## 🏆 Certificates
 
 
 
 \### 📜 Certificate 1:
 
-!\[Certificate](images/certificate.png)
+!\[Certificate](https://raw.githubusercontent.com/codemonk125/5196234\_AbhaySinghBhadauria/main/images/certificate.png)
 
 
 
 \### 📜 Simplilearn Certificate:
 
-!\[Simplilearn Certificate](images/certificatesimplilearn.png)
+!\[Simplilearn Certificate](https://raw.githubusercontent.com/codemonk125/5196234\_AbhaySinghBhadauria/main/images/certificatesimplilearn.png)
 
 
 
